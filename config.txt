@@ -28,6 +28,7 @@
   "editor.parameterHints.enabled": false,
   "editor.renderLineHighlight": "gutter",
   "cSpell.language": "en,pt",
+  "cSpell.diagnosticLevel": "Hint",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.suggestSelection": "first",
   "explorer.confirmDelete": false,
